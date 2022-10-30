@@ -1,6 +1,6 @@
 # Best me App
 
-Aprendi um app que faz perguntas visando mostrar seu desempenho no dia
+Criei um app que faz perguntas visando mostrar seu desempenho no dia
 
 ## O que aprendi no desenvolvimento
 
